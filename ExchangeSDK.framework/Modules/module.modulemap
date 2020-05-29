@@ -1,0 +1,6 @@
+framework module ExchangeSDK {
+  umbrella header "ExchangeSDK.h"
+
+  export *
+  module * { export * }
+}

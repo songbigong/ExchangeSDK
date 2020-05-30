@@ -1,10 +1,10 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ExchangeSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A short description of ExchangeSDK"
   spec.description  = <<-DESCRIPTION
-                      pod spec create xx
+                      适配AFNetworking 4.0.1
                       DESCRIPTION
 
   spec.homepage     = "https://github.com/songbigong"

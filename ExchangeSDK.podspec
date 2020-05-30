@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ExchangeSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of ExchangeSDK"
   spec.description  = <<-DESCRIPTION
                       pod spec create xx

@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.static_framework = true
   spec.requires_arc = true
   spec.platform     = :ios, '9.0'
-  spec.ios.vendored_frameworks = ['ExchangeSDK.framework']
+  spec.vendored_frameworks = 'Frameworks/ExchangeSDK.framework'
   spec.resources  = []
   spec.frameworks = 'UIKit'
   
